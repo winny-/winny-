@@ -1,0 +1,5 @@
+Hello world!
+
+|---------+------+--------+--------+---------|
+| [[https://winny.tech/][Website]] | [[https://blog.winny.tech/][Blog]] | [[https://github.com/winny-][GitHub]] | [[https://gitlab.com/winny/][GitLab]] | [[about:blank][Contact]] |
+|---------+------+--------+--------+---------|
