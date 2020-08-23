@@ -14,4 +14,4 @@
 README.md
 #+END_QUOTE
 
-No, this is [[https://github.com/winny-/winny-/blob/master/README.org][=README.org=]] — an [[https://orgmode.org/][org-mode]] document! 🤔
+No, this is =[[https://github.com/winny-/winny-/blob/master/README.org][README.org]]= — an [[https://orgmode.org/][org-mode]] document! 🤔
