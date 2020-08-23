@@ -7,3 +7,9 @@
 |---------+------+--------+--------+
 | [[https://winny.tech/][Website]] | [[https://blog.winny.tech/][Blog]] | [[https://github.com/winny-][GitHub]] | [[https://gitlab.com/winny/][GitLab]] |
 |---------+------+--------+--------+
+
+#+BEGIN_QUOTE
+README.md
+#+END_QUOTE
+
+No, this is =README.org= — an org-mode document! 🤔
