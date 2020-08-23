@@ -8,8 +8,10 @@
 | [[https://winny.tech/][Website]] | [[https://blog.winny.tech/][Blog]] | [[https://github.com/winny-][GitHub]] | [[https://gitlab.com/winny/][GitLab]] |
 |---------+------+--------+--------+
 
+-----
+
 #+BEGIN_QUOTE
 README.md
 #+END_QUOTE
 
-No, this is =README.org= — an org-mode document! 🤔
+No, this is [[https://github.com/winny-/winny-/blob/master/README.org][=README.org=]] — an [[https://orgmode.org/][org-mode]] document! 🤔
